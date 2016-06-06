@@ -1,0 +1,14 @@
+body{
+  font-family:Monospace;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+tr td{
+  opacity:.75;
+}
+tr td:hover{
+  opacity:1;
+}
